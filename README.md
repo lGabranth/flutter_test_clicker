@@ -26,5 +26,5 @@
 | Le cookie change d'apparence en fonction du nombre de cookie total	                                        | 🔥🔥🔥🔥  | ✔  |
 | Ajouter un son et une vibration à votre jeu	                                                                | 🔥🔥🔥🔥🔥 | ✔  |
 
-Pour faire en fonction du nombre cliqué (clique par second), ajouter un timer et diviser le compteur de click par le timer
+Pour faire en fonction du nombre cliqué (clique par second), ajouter un timer et diviser le compteur de click par le timer  
 **Score/Prévu : 47 / 45**
